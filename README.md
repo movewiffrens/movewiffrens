@@ -65,7 +65,7 @@ Find answers to commonly asked questions in our [FAQ section](https://docs.movew
 
 ## Links 🔗
 
-- [Official Website](https://www.tumilabs.dev)
+- [Official Website](https://www.movewiffrens.xyz/)
 - [Documentation](https://docs.movewiffrens.xyz)
 
 ## Roadmap 🗺️
