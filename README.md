@@ -6,14 +6,15 @@ Movewiffrens is a cutting-edge platform developed by Tumi Labs that redefines so
 
 - [Introduction](https://docs.movewiffrens.xyz/basic/introduction) 📖
 - [Getting Started](#getting-started) 🚀
-  - [Creating an Account]([#creating-an-account](https://docs.movewiffrens.xyz/getting-started/creating-an-account)) 📝
-  - [Syncing Your Twitter (X) Account](#syncing-your-twitter-x-account) 🔗
-  - [Setup an M1 Wallet](#setup-an-m1-wallet) 💼
-  - [Minting Your First Frenspass](#minting-your-first-frenspass) 🎟️
+  - [Creating an Account](https://docs.movewiffrens.xyz/getting-started/creating-an-account) 📝
+  - [Syncing Your Twitter (X) Account](https://docs.movewiffrens.xyz/getting-started/syncing-your-twitter-x-account) 🔗
+  - [Setup an M1 Wallet](https://docs.movewiffrens.xyz/getting-started/setup-an-m1-wallet) 💼
+  - [Minting Your First Frenspass](https://docs.movewiffrens.xyz/getting-started/minting-your-first-frenspass) 🎟️
 - [Key Features](#key-features) 🌟
-  - [Exclusive Content](#exclusive-content) 🏆
-  - [Private Chat](#private-chat) 💬
-  - [Frenspoints and Frenspass](#frenspoints-and-frenspass) 🎫
+  - [Exclusive Content](https://docs.movewiffrens.xyz/key-features/exclusive-content-on-movewiffrens) 🏆
+  - [Private Chat](https://docs.movewiffrens.xyz/key-features/private-chat-on-movewiffrens-mwfs) 💬
+  - [Frenspoints](https://docs.movewiffrens.xyz/some-key-definitions/frenspoints) 🎫
+  - [Frenspass](https://docs.movewiffrens.xyz/some-key-definitions/frenspass)
   - [$MFW Token](#mfw-token) 💰
 - [FAQs](#faqs) ❓
 - [Links](#links) 🔗
