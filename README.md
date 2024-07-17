@@ -4,9 +4,9 @@ Movewiffrens is a cutting-edge platform developed by Tumi Labs that redefines so
 
 ## Table of Contents
 
-- [Introduction](#introduction) 📖
+- [Introduction](https://docs.movewiffrens.xyz/basic/introduction)) 📖
 - [Getting Started](#getting-started) 🚀
-  - [Creating an Account](#creating-an-account) 📝
+  - [Creating an Account]([#creating-an-account](https://docs.movewiffrens.xyz/getting-started/creating-an-account)) 📝
   - [Syncing Your Twitter (X) Account](#syncing-your-twitter-x-account) 🔗
   - [Setup an M1 Wallet](#setup-an-m1-wallet) 💼
   - [Minting Your First Frenspass](#minting-your-first-frenspass) 🎟️
